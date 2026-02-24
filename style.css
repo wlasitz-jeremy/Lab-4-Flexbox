@@ -1,0 +1,32 @@
+.two-equal {
+  background-color: lightgreen;
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+  height: 25px;
+}
+.three-equal {
+  background-color: lightgreen;
+  display: flex;
+  justify-content: space-around;
+  padding: 15px;
+  height: 25px;
+}
+.three-unequal {
+  background-color: lightgreen;
+  display: flex;
+  justify-content: space-around;
+  padding: 12px;
+  height: 25px;
+}
+.four-equal {
+  background-color: lightgreen;
+  display: flex;
+  justify-content: space-around;
+  padding: 12px;
+  height: 25px;
+}
+.footer {
+  background-color: lightgreen;
+  height: 25px;
+}
