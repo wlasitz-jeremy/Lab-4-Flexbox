@@ -1,7 +1,7 @@
 .two-equal {
   display: flex;
   background-color: lightgreen;
-  border: 10px solid lightblue;
+  border: 12px solid lightblue;
   gap: 10px;
   padding: 10px;
 }
