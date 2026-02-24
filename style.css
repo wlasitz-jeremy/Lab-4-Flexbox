@@ -50,12 +50,8 @@
   display: flex;
   background-color: lightgreen;
   height: 50px;
-  border-top: 10px solid lightblue;
-  border-left: 10px solid lightblue;
-  border-right: 10px solid lightblue;
-  border-bottom: 5px solid lightblue;
   gap: 12px;
-  padding: 12px;
+  padding: 12px 12px 6px 12px;
 }
 .four-equal div {
   background-color: brown;
@@ -66,14 +62,13 @@
 .footer {
   background-color: lightgreen;
   height: 50px;
-  border-top: 5px solid lightblue;
-  border-left: 10px solid lightblue;
-  border-right: 10px solid lightblue;
-  border-bottom: 10px solid lightblue;
-  padding: 12px;
+  padding: 6px 12px 12px 12px;
 }
 .footer div {
   background-color: brown;
   height: 50px;
   border: 2px solid black;
+}
+.four-equal-footer {
+  border: 10px lightblue;
 }
