@@ -36,13 +36,13 @@
   height: 50px;
 }
 .three-unequal div:first-child {
-  flex-grow: 1;
+  flex-grow: 2;
 }
 .three-unequal div:nth-child(2) {
   flex-grow: 1;
 }
 .three-unequal div:last-child {
-  flex-grow: 2;
+  flex-grow: 1;
 }
 
 .four-equal {
