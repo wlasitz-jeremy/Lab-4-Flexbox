@@ -10,7 +10,6 @@
   height: 50px;
   flex-grow: 1;
 }
-
 .three-equal {
   display: flex;
   background-color: lightgreen;
@@ -23,7 +22,6 @@
   height: 50px;
   flex-grow: 1;
 }
-
 .three-unequal {
   display: flex;
   background-color: lightgreen;
